@@ -7,6 +7,7 @@ import 'element-plus/lib/theme-chalk/index.css';
 import router from './router/index';
 import store from './store/index'
 
+import './utils/permit'
 
 
 setTimeout(()=>{
